@@ -1,4 +1,4 @@
-namespace RPGGame;
+namespace RPGGame.Input;
 
 public enum MouseButtons
 {

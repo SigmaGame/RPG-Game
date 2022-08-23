@@ -1,7 +1,6 @@
-using System;
 using Microsoft.Xna.Framework.Input;
 
-namespace RPGGame;
+namespace RPGGame.Input;
 
 public static class InputExtensions
 {
