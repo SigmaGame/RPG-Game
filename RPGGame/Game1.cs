@@ -32,7 +32,8 @@ public class Game1 : Game
 
     protected override void Update(GameTime gameTime)
     {
-        if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
+        InputManager.Update();
+        if (InputManager.GetKeyPress(Keys.Escape))
             Exit();
 
         // TODO: Add your update logic here
