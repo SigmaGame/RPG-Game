@@ -133,4 +133,5 @@ peut-etre mettre plusieur texture pack
 
 
 ## Credit
-    Sigma, Etudiant, chef de projet, développeur 
+    Sigma: Etudiant, chef de projet, développeur 
+    Raoul1808: Étudiant, développeur
